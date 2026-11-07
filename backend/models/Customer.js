@@ -48,3 +48,4 @@ const customerSchema = new mongoose.Schema(
 customerSchema.index({ name: 'text', email: 'text', company: 'text' });
 
 module.exports = mongoose.model('Customer', customerSchema);
+

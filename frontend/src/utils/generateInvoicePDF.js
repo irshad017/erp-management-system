@@ -177,3 +177,4 @@ export const generateInvoicePDF = (invoice) => {
   // Save the PDF
   doc.save(`${invoice.invoiceNumber || 'Invoice'}.pdf`);
 };
+

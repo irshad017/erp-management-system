@@ -21,3 +21,4 @@ router.route('/:id')
   .delete(authorize('admin'), deleteSalesOrder);
 
 module.exports = router;
+

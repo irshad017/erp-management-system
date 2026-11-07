@@ -216,3 +216,4 @@ module.exports = {
   updateSalesOrder,
   deleteSalesOrder
 };
+

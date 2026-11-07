@@ -92,3 +92,4 @@ const grnSchema = new mongoose.Schema(
 grnSchema.index({ grnNumber: 'text', deliveryNoteNumber: 'text' });
 
 module.exports = mongoose.model('GRN', grnSchema);
+

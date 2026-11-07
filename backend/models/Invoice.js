@@ -116,3 +116,4 @@ const invoiceSchema = new mongoose.Schema(
 invoiceSchema.index({ invoiceNumber: 'text' });
 
 module.exports = mongoose.model('Invoice', invoiceSchema);
+

@@ -127,3 +127,4 @@ Interactive Swagger UI: `http://localhost:5000/api-docs`
   - Returns aggregate KPIs (Total Revenue, Purchase Cost, Net Margin, Active Orders, Low Stock Alerts)
   - Returns 6-month financial performance trends for charting
   - Returns category inventory distribution and order status breakdown
+

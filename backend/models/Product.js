@@ -77,3 +77,4 @@ productSchema.virtual('stockStatus').get(function () {
 productSchema.index({ title: 'text', SKU: 'text', category: 'text' });
 
 module.exports = mongoose.model('Product', productSchema);
+

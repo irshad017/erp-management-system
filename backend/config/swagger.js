@@ -222,3 +222,4 @@ const setupSwagger = (app) => {
 };
 
 module.exports = { setupSwagger, swaggerDocument };
+

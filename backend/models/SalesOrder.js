@@ -115,3 +115,4 @@ const salesOrderSchema = new mongoose.Schema(
 salesOrderSchema.index({ orderNumber: 'text' });
 
 module.exports = mongoose.model('SalesOrder', salesOrderSchema);
+

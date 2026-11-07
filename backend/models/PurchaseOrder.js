@@ -87,3 +87,4 @@ const purchaseOrderSchema = new mongoose.Schema(
 purchaseOrderSchema.index({ poNumber: 'text' });
 
 module.exports = mongoose.model('PurchaseOrder', purchaseOrderSchema);
+

@@ -21,3 +21,4 @@ router.route('/:id/status')
   .put(authorize('admin', 'sales'), updateInvoiceStatus);
 
 module.exports = router;
+

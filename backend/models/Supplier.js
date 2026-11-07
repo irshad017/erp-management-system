@@ -52,3 +52,4 @@ const supplierSchema = new mongoose.Schema(
 supplierSchema.index({ name: 'text', email: 'text', company: 'text' });
 
 module.exports = mongoose.model('Supplier', supplierSchema);
+

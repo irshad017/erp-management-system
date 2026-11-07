@@ -193,3 +193,4 @@ module.exports = {
   deleteProduct,
   getLowStockAlerts
 };
+

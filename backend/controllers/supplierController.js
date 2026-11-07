@@ -139,3 +139,4 @@ module.exports = {
   updateSupplier,
   deleteSupplier
 };
+

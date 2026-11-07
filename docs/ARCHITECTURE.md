@@ -73,3 +73,4 @@ sequenceDiagram
 | **Goods Receipt Note (GRN)** | Full Access | Read Only | Full Access | Full Access |
 | **Invoicing & Billing** | Full Access | Full Access | Read Only | Read Only |
 | **User Management (RBAC)** | Full Access | No Access | No Access | No Access |
+
